@@ -1,1 +1,3 @@
-this is a terst
+this is a test
+
+\x1b[1;31mThis is a test
