@@ -1,3 +1,5 @@
 \x1b[1;31m
 
 This is a test
+
+"\e]9;9;/" calc.exe "o /\e\\"
